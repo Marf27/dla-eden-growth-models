@@ -143,14 +143,7 @@ The final roughness of both clusters is calculated and printed, providing a quan
 
 Running the script generates visualizations similar to:
 
-```text
-+----------------------+----------------------+
-|      DLA Cluster     |     Eden Cluster     |
-|                      |                      |
-|    highly branched   |     more compact     |
-|      structure       |       structure      |
-+----------------------+----------------------+
-```
+![Clusters](clusters.png)
 
 and a convergence plot showing the estimated fractal dimension as a function of the number of growth events.
 
